@@ -1,0 +1,42 @@
+body {
+	line-height: 20px;
+	height: 100%;
+	margin: 0 0 0 0;
+	font-size: 21px;
+	font-family: "Helvetica Standard",Helvetica,Arial,sans-serif;
+	background: #181818 no-repeat bottom right;
+	background-image: url("img/10.png");
+	color: #7A2D2D;
+}
+
+a {
+	color: #DA1111;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#info {
+	text-align: center;
+	margin: auto auto auto auto;
+	height: 16.5%;
+}
+
+#info h1 {
+	color: inherit;
+    font-family: inherit;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 10px 0px;
+    cursor: default;
+    text-rendering: optimizelegibility;
+}
+
+#links {
+	text-align: center;
+	margin: auto auto auto auto;
+	height: 66%;
+}
