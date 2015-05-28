@@ -10,7 +10,6 @@ images = [
 	9,
 	10,
 	11,
-	12
 ];
 
 random = images.length*Math.random();
