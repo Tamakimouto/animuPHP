@@ -1,15 +1,17 @@
 images = [
 	1,
-	2,
-	3,
-	4,
+	"chibiRyuko",
+	"kurisu",
+	"yoko",
 	5,
 	6,
 	7,
-	8,
+	"mio",
 	9,
 	10,
-	11,
+	"chibiKurisu",
+	"kaori",
+	"kaori2",
 ];
 
 random = images.length*Math.random();
