@@ -42,3 +42,7 @@ a:hover{
 #links p{
 	margin: 8px 0;
 }
+
+.glow:hover {
+	text-shadow: 0 0 5px #FF0000;
+}
